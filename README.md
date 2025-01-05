@@ -50,7 +50,7 @@ To set up the project locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/eisax/innbucks.git
-   cd innbucks-clone
+   cd innbucks
 
 2. Install dependencies: Make sure you have Flutter installed on your system. Then, run:
    ```bash
