@@ -20,6 +20,27 @@ This project is a **clone for educational purposes only**. It is not intended fo
 
 ---
 
+| Tool/Package            | Version        |
+|-------------------------|----------------|
+| **Flutter**             | 3.24.0         |
+| **Dart**                | 2.18.0         |
+| **flutter_localizations**| 0.1.0         |
+| **provider**            | 6.0.3          |
+| **http**                | 0.14.0         |
+| **firebase_core**       | 1.13.0         |
+| **firebase_auth**       | 4.1.0          |
+| **cloud_firestore**     | 4.5.0          |
+| **flutter_bloc**        | 8.1.0          |
+| **get_it**              | 7.2.0          |
+| **flutter_svg**         | 1.0.0          |
+| **cached_network_image**| 3.1.0          |
+| **shared_preferences**  | 2.0.15         |
+| **intl**                | 0.17.0         |
+| **rflutter_alert**      | 2.0.4          |
+| **flutter_staggered_grid_view** | 0.6.1  |
+
+---
+
 ## 🛠️ Getting Started
 
 To set up the project locally:
