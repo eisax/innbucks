@@ -20,6 +20,8 @@ This project is a **clone for educational purposes only**. It is not intended fo
 
 ---
 
+## 🛠️ Tools and Packages used
+
 | Tool/Package            | Version        |
 |-------------------------|----------------|
 | **Flutter**             | 3.24.0         |
